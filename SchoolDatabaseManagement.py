@@ -1,6 +1,3 @@
-'''
-                THIS IS CREATED BY VANSH SHARMA
-'''
 import mysql.connector
 print("___________________________________WELCOME___________________________________")
 loginfo={1118 : 10062002, 2342 : 21072002}
