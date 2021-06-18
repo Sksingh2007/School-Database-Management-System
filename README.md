@@ -1,5 +1,5 @@
 # School-Database-Management
-This .py script uses mysql.connector library to access MySQL and make changes in a database (else create a database if it doesn't exist).
+This .py script uses mysql.connector library to access MySQL and make changes in a database.
 ## Requirements
 - MySQL
 - Install mysql.connector library for python by typing the following command in terminal
