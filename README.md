@@ -11,3 +11,4 @@ This .py script uses mysql.connector library to access MySQL and make changes in
 ```
 pip install mysql.connector
 ```
+
